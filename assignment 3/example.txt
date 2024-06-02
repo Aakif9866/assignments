@@ -1,0 +1,6 @@
+This is the new text in example.txt
+This text will be appended.
+
+Appended content with buffering.
+
+Appended content with buffering.
